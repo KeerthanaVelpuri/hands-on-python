@@ -6,8 +6,8 @@ output_dir = "data_output"
 
 if not os.path.exists(input_dir):
     os.makedirs(input_dir)
-    print(f"📁 Created '{input_dir}' folder.")
-    print("ℹ Please add .txt files to this folder and re-run the script.")
+    print(f"Created '{input_dir}' folder.")
+    print("Please add .txt files to this folder and re-run the script.")
     exit()
 
 if not os.path.exists(output_dir):
