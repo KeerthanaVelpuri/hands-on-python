@@ -1,0 +1,4 @@
+The temp storage area was designed for quick access.
+However, using temp directories can be risky if not managed properly.
+# This is a comment and should be ignored.
+Permanent solutions are preferred for critical data management tasks.
